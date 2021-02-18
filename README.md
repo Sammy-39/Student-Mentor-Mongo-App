@@ -1,4 +1,4 @@
-# Student-Mentor App
+# Student-Mentor-Mongo App
 
 Assigns students to mentor and mentor to students. 
 
